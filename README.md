@@ -1,6 +1,6 @@
 # Simple PokéSearch App
 
-A responsive Pokédex web application built using:
+A responsive PokéSearch web application built using:
 
 - HTML
 - Tailwind CSS
